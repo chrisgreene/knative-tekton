@@ -1,9 +1,9 @@
 {
     "ref": "refs/heads/master",
     "repository": {
-        "url": "https://github.com/csantanapr/knative-tekton"
+        "url": "https://github.com/chrisgreene/knative-tekton"
     },
     "head_commit": {
-        "id": "09fd37021af80496b92b1f41b310276df798a98a"
+        "id": "a05f7c557afaf5643d54cd3317e4fba453bb4449"
     }
 }
